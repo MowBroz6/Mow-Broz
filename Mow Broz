@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mow Broz Mowing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #2d572c;
+        }
+        .contact {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        .contact a {
+            color: #2d572c;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Mow Broz Mowing</h1>
+        <img src="logo.png" alt="Mow Broz Logo">
+        <p>Reliable and affordable lawn mowing services provided by hardworking teens.</p>
+        <div class="contact">
+            <p>📞 Call us: <a href="tel:2088419930">208-841-9930</a></p>
+            <p>📧 Email: <a href="mailto:mow.broz6@gmail.com">mow.broz6@gmail.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
